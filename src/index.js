@@ -12,7 +12,7 @@ import VideoDetail from  './components/video_detail';
 import SearchBar from './components/search_bar';
 
 //API key to access youtube
-const API_KEY = 'AIzaSyCrV9syOXzzyDoKd2bWXePPvJQvMsEWMeo'
+const API_KEY = ''
 //NPM PACKAGE TO REQUEST A LIST OF VIDEOS FROM YOUTUBE
 
 
